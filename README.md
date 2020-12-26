@@ -1,26 +1,5 @@
 # [Django Dashboard - Atlantis Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark)
 
-> **Open-Source Admin Dashboard** coded in **Flask Framework** by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - features:
-
-- UI Kit: Atlantis Dashboard (Free version) - design by ThemeKita
-- UI-Ready app, SQLite Database, Django Native ORM
-- Modular design, clean code-base
-- Session-Based Authentication, Forms validation
-- Deployment scripts: Docker, Gunicorn / Nginx
-- **MIT License**
-- Free support via **Github** 
-- Paid Support **24/7 LIVE Support** via [Discord](https://discord.gg/fZC6hup)
-
-> Links
-
-- [Django Dashboard Atlantis Dark](https://appseed.us/admin-dashboards/django-dashboard-atlantis-dark) - Product page
-- [Django Dashboard Atlantis Dark](https://django-dashboard-atlantis-dark.appseed.us/login/) - LIVE Demo
-- [Django Dashboard Atlantis Dark](https://docs.appseed.us/admin-dashboards/django-dashboard-atlantis-dark/) - Documentation
-- More [Django Dashboards](https://appseed.us/admin-dashboards/django) - index hosted by **AppSeed**
-- [Free Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **AppSeed**
-
-<br />
-
 ## How to use it
 
 ```bash
